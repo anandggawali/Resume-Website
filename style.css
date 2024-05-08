@@ -14,7 +14,7 @@ body{
 #header{
   width:100%;
   height:100vh;
-  background-image: url(https://github.com/anandggawali/Resume-Website/blob/main/hero%20anand.jpg?raw=true);
+  background-image: url(heroanand.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -316,7 +316,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width:600px){
   #header{
-    background-image:url(mobile\ photo.jpg); 
+    background-image:url(mobilephoto.jpg); 
 }
 .header-text{
   margin-top: 80%;
